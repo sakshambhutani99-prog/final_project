@@ -1,0 +1,901 @@
+name,math_score,science_score,english_score,coding_skill,communication_skill,creativity_skill,interest_technology,interest_arts,interest_business,interest_medicine,interest_law,career_label
+Student213,97,91,69,9,4,4,1,0,0,0,0,AI/ML Engineer
+Student174,86,88,72,10,5,3,1,0,0,0,0,Data Scientist
+Student143,98,82,73,7,5,4,1,0,0,0,0,Data Scientist
+Student110,92,93,78,8,6,5,1,0,0,0,0,Data Scientist
+Student890,57,50,94,0,7,9,0,1,0,0,0,Content Creator
+Student607,63,69,94,1,9,8,0,0,1,0,0,Marketing Executive
+Student397,69,92,62,2,4,5,0,0,0,1,0,Doctor
+Student541,71,71,94,0,9,5,0,0,1,0,0,Business Manager
+Student179,94,91,70,10,7,2,1,0,0,0,0,Data Scientist
+Student888,56,52,91,1,8,9,0,1,0,0,0,Content Creator
+Student24,96,80,69,8,6,3,1,0,0,0,0,Software Engineer
+Student468,67,64,88,2,9,4,0,0,0,0,1,Lawyer
+Student663,63,59,90,2,9,8,0,0,1,0,0,Marketing Executive
+Student49,90,78,74,10,6,3,1,0,0,0,0,Software Engineer
+Student664,57,67,88,1,10,6,0,0,1,0,0,Marketing Executive
+Student231,96,93,70,10,5,4,1,0,0,0,0,AI/ML Engineer
+Student396,65,100,63,3,7,4,0,0,0,1,0,Doctor
+Student686,58,58,88,1,9,5,0,0,1,0,0,Marketing Executive
+Student525,76,73,96,2,10,5,0,0,1,0,0,Business Manager
+Student326,62,95,76,4,5,3,0,0,0,1,0,Doctor
+Student886,67,65,93,1,8,9,0,1,0,0,0,Content Creator
+Student321,68,97,76,3,6,5,0,0,0,1,0,Doctor
+Student87,98,87,63,9,6,3,1,0,0,0,0,Software Engineer
+Student876,52,55,97,3,10,9,0,1,0,0,0,Content Creator
+Student773,74,53,82,3,6,9,0,1,0,0,0,Graphic Designer
+Student345,65,92,66,4,6,6,0,0,0,1,0,Doctor
+Student192,94,91,72,10,6,3,1,0,0,0,0,Data Scientist
+Student86,88,79,78,8,6,2,1,0,0,0,0,Software Engineer
+Student147,90,82,70,10,6,2,1,0,0,0,0,Data Scientist
+Student178,84,82,70,10,3,5,1,0,0,0,0,Data Scientist
+Student668,55,58,94,2,10,5,0,0,1,0,0,Marketing Executive
+Student9,88,90,71,9,5,5,1,0,0,0,0,Software Engineer
+Student35,91,79,77,10,4,2,1,0,0,0,0,Software Engineer
+Student314,69,94,72,4,5,6,0,0,0,1,0,Doctor
+Student443,68,53,92,2,10,2,0,0,0,0,1,Lawyer
+Student731,69,67,83,4,5,9,0,1,0,0,0,Graphic Designer
+Student349,76,94,66,4,7,4,0,0,0,1,0,Doctor
+Student68,90,90,66,9,5,2,1,0,0,0,0,Software Engineer
+Student548,73,59,90,0,10,6,0,0,1,0,0,Business Manager
+Student515,66,65,85,1,10,4,0,0,1,0,0,Business Manager
+Student713,61,66,81,1,5,10,0,1,0,0,0,Graphic Designer
+Student804,57,68,89,3,8,10,0,1,0,0,0,Content Creator
+Student576,75,74,93,1,9,6,0,0,1,0,0,Business Manager
+Student626,71,62,84,2,9,8,0,0,1,0,0,Marketing Executive
+Student625,67,69,94,1,10,6,0,0,1,0,0,Marketing Executive
+Student595,66,61,86,1,10,6,0,0,1,0,0,Business Manager
+Student300,99,98,72,9,3,4,1,0,0,0,0,AI/ML Engineer
+Student508,76,70,95,2,9,6,0,0,1,0,0,Business Manager
+Student580,69,70,88,3,9,5,0,0,1,0,0,Business Manager
+Student567,68,74,85,0,10,4,0,0,1,0,0,Business Manager
+Student629,65,68,91,1,9,6,0,0,1,0,0,Marketing Executive
+Student715,55,69,69,3,8,10,0,1,0,0,0,Graphic Designer
+Student742,74,69,84,2,7,9,0,1,0,0,0,Graphic Designer
+Student817,70,57,91,0,8,9,0,1,0,0,0,Content Creator
+Student766,63,66,70,3,5,10,0,1,0,0,0,Graphic Designer
+Student839,64,54,88,3,7,9,0,1,0,0,0,Content Creator
+Student504,64,64,84,3,9,5,0,0,1,0,0,Business Manager
+Student60,96,83,78,8,5,3,1,0,0,0,0,Software Engineer
+Student240,99,97,60,9,2,3,1,0,0,0,0,AI/ML Engineer
+Student493,62,51,93,0,10,2,0,0,0,0,1,Lawyer
+Student884,52,58,94,3,7,9,0,1,0,0,0,Content Creator
+Student833,57,66,82,0,8,9,0,1,0,0,0,Content Creator
+Student146,85,92,75,10,7,3,1,0,0,0,0,Data Scientist
+Student436,61,59,95,0,10,3,0,0,0,0,1,Lawyer
+Student237,95,90,64,10,4,3,1,0,0,0,0,AI/ML Engineer
+Student137,85,86,65,9,4,3,1,0,0,0,0,Data Scientist
+Student47,94,82,68,9,4,3,1,0,0,0,0,Software Engineer
+Student186,90,84,70,7,3,5,1,0,0,0,0,Data Scientist
+Student1,90,83,65,10,4,3,1,0,0,0,0,Software Engineer
+Student835,57,56,94,0,9,9,0,1,0,0,0,Content Creator
+Student421,50,67,94,0,10,5,0,0,0,0,1,Lawyer
+Student577,64,70,97,1,9,3,0,0,1,0,0,Business Manager
+Student76,90,83,78,10,6,4,1,0,0,0,0,Software Engineer
+Student184,86,90,65,10,5,4,1,0,0,0,0,Data Scientist
+Student154,97,80,62,7,6,3,1,0,0,0,0,Data Scientist
+Student252,100,85,62,9,4,4,1,0,0,0,0,AI/ML Engineer
+Student636,62,58,97,0,9,5,0,0,1,0,0,Marketing Executive
+Student619,69,66,95,2,10,8,0,0,1,0,0,Marketing Executive
+Student733,67,62,71,4,6,9,0,1,0,0,0,Graphic Designer
+Student442,54,62,92,2,9,2,0,0,0,0,1,Lawyer
+Student113,84,94,68,9,7,2,1,0,0,0,0,Data Scientist
+Student624,65,58,97,1,9,8,0,0,1,0,0,Marketing Executive
+Student695,56,58,84,2,10,8,0,0,1,0,0,Marketing Executive
+Student57,96,81,61,10,6,3,1,0,0,0,0,Software Engineer
+Student218,97,95,75,10,4,2,1,0,0,0,0,AI/ML Engineer
+Student782,58,59,72,2,6,9,0,1,0,0,0,Graphic Designer
+Student774,71,55,78,1,8,10,0,1,0,0,0,Graphic Designer
+Student775,72,59,78,3,5,10,0,1,0,0,0,Graphic Designer
+Student795,60,59,71,1,6,10,0,1,0,0,0,Graphic Designer
+Student647,58,70,97,0,10,6,0,0,1,0,0,Marketing Executive
+Student201,92,93,64,10,3,2,1,0,0,0,0,AI/ML Engineer
+Student325,63,93,74,2,7,6,0,0,0,1,0,Doctor
+Student190,87,94,69,10,5,4,1,0,0,0,0,Data Scientist
+Student864,58,51,91,3,7,9,0,1,0,0,0,Content Creator
+Student589,76,59,90,3,9,3,0,0,1,0,0,Business Manager
+Student816,57,51,97,0,9,9,0,1,0,0,0,Content Creator
+Student642,68,70,96,0,9,5,0,0,1,0,0,Marketing Executive
+Student394,66,98,66,2,5,3,0,0,0,1,0,Doctor
+Student753,63,59,84,2,8,10,0,1,0,0,0,Graphic Designer
+Student645,62,54,85,0,9,5,0,0,1,0,0,Marketing Executive
+Student308,75,100,73,4,4,6,0,0,0,1,0,Doctor
+Student274,96,87,60,10,5,3,1,0,0,0,0,AI/ML Engineer
+Student781,64,52,68,1,5,10,0,1,0,0,0,Graphic Designer
+Student373,69,92,76,2,6,4,0,0,0,1,0,Doctor
+Student221,98,98,66,9,3,4,1,0,0,0,0,AI/ML Engineer
+Student293,91,86,64,10,3,4,1,0,0,0,0,AI/ML Engineer
+Student172,92,85,66,8,3,2,1,0,0,0,0,Data Scientist
+Student555,65,60,96,2,10,5,0,0,1,0,0,Business Manager
+Student755,60,58,76,4,6,9,0,1,0,0,0,Graphic Designer
+Student239,94,94,74,10,3,2,1,0,0,0,0,AI/ML Engineer
+Student88,99,78,72,8,6,5,1,0,0,0,0,Software Engineer
+Student726,68,64,72,3,5,10,0,1,0,0,0,Graphic Designer
+Student398,62,99,66,4,6,5,0,0,0,1,0,Doctor
+Student177,98,94,77,9,3,2,1,0,0,0,0,Data Scientist
+Student714,71,69,75,2,8,10,0,1,0,0,0,Graphic Designer
+Student708,67,54,71,3,6,9,0,1,0,0,0,Graphic Designer
+Student367,70,95,78,4,5,5,0,0,0,1,0,Doctor
+Student740,55,57,80,3,5,9,0,1,0,0,0,Graphic Designer
+Student67,87,82,66,8,4,4,1,0,0,0,0,Software Engineer
+Student831,52,65,90,3,10,10,0,1,0,0,0,Content Creator
+Student365,63,91,62,3,7,5,0,0,0,1,0,Doctor
+Student279,100,95,67,9,2,4,1,0,0,0,0,AI/ML Engineer
+Student717,62,52,70,1,5,9,0,1,0,0,0,Graphic Designer
+Student129,84,91,66,8,5,5,1,0,0,0,0,Data Scientist
+Student585,78,71,92,1,10,6,0,0,1,0,0,Business Manager
+Student322,70,92,77,4,7,5,0,0,0,1,0,Doctor
+Student145,94,86,74,7,7,3,1,0,0,0,0,Data Scientist
+Student744,64,53,71,3,7,9,0,1,0,0,0,Graphic Designer
+Student780,74,67,73,1,6,10,0,1,0,0,0,Graphic Designer
+Student418,59,57,99,1,9,2,0,0,0,0,1,Lawyer
+Student682,56,55,90,1,9,8,0,0,1,0,0,Marketing Executive
+Student486,52,50,95,1,10,4,0,0,0,0,1,Lawyer
+Student244,93,90,72,9,5,3,1,0,0,0,0,AI/ML Engineer
+Student476,60,51,89,0,10,2,0,0,0,0,1,Lawyer
+Student650,63,55,86,2,10,7,0,0,1,0,0,Marketing Executive
+Student737,62,63,74,1,7,9,0,1,0,0,0,Graphic Designer
+Student243,97,94,70,10,5,2,1,0,0,0,0,AI/ML Engineer
+Student807,57,56,83,0,7,10,0,1,0,0,0,Content Creator
+Student681,61,57,92,0,9,5,0,0,1,0,0,Marketing Executive
+Student748,66,61,83,2,6,10,0,1,0,0,0,Graphic Designer
+Student411,63,66,97,0,10,2,0,0,0,0,1,Lawyer
+Student745,74,57,76,4,7,9,0,1,0,0,0,Graphic Designer
+Student286,90,96,71,10,4,3,1,0,0,0,0,AI/ML Engineer
+Student749,63,70,75,2,8,10,0,1,0,0,0,Graphic Designer
+Student706,58,53,70,3,6,9,0,1,0,0,0,Graphic Designer
+Student871,52,60,94,3,7,9,0,1,0,0,0,Content Creator
+Student359,72,98,73,2,4,4,0,0,0,1,0,Doctor
+Student464,51,60,93,2,9,3,0,0,0,0,1,Lawyer
+Student873,70,68,87,3,7,10,0,1,0,0,0,Content Creator
+Student496,54,54,97,2,9,5,0,0,0,0,1,Lawyer
+Student764,57,63,82,3,8,9,0,1,0,0,0,Graphic Designer
+Student403,50,54,89,0,10,4,0,0,0,0,1,Lawyer
+Student95,99,79,74,8,6,5,1,0,0,0,0,Software Engineer
+Student227,93,90,64,10,3,4,1,0,0,0,0,AI/ML Engineer
+Student505,71,64,85,3,9,4,0,0,1,0,0,Business Manager
+Student101,95,95,67,8,3,2,1,0,0,0,0,Data Scientist
+Student472,52,60,99,1,9,4,0,0,0,0,1,Lawyer
+Student845,60,60,97,1,10,10,0,1,0,0,0,Content Creator
+Student530,70,61,93,1,10,4,0,0,1,0,0,Business Manager
+Student28,92,88,62,8,3,2,1,0,0,0,0,Software Engineer
+Student424,54,56,98,2,9,5,0,0,0,0,1,Lawyer
+Student827,62,53,94,1,8,9,0,1,0,0,0,Content Creator
+Student727,55,64,79,3,8,10,0,1,0,0,0,Graphic Designer
+Student55,89,89,60,10,3,3,1,0,0,0,0,Software Engineer
+Student557,72,66,89,2,9,3,0,0,1,0,0,Business Manager
+Student126,87,83,72,7,5,5,1,0,0,0,0,Data Scientist
+Student93,89,87,61,9,5,5,1,0,0,0,0,Software Engineer
+Student419,65,63,95,0,10,4,0,0,0,0,1,Lawyer
+Student602,64,63,95,1,9,8,0,0,1,0,0,Marketing Executive
+Student747,68,63,72,3,5,9,0,1,0,0,0,Graphic Designer
+Student206,98,96,60,10,2,2,1,0,0,0,0,AI/ML Engineer
+Student772,73,64,74,2,6,9,0,1,0,0,0,Graphic Designer
+Student768,71,68,71,2,8,10,0,1,0,0,0,Graphic Designer
+Student117,85,91,64,8,7,5,1,0,0,0,0,Data Scientist
+Student718,55,69,84,2,8,10,0,1,0,0,0,Graphic Designer
+Student637,57,63,95,1,10,8,0,0,1,0,0,Marketing Executive
+Student778,68,54,83,2,6,10,0,1,0,0,0,Graphic Designer
+Student574,65,66,95,0,9,4,0,0,1,0,0,Business Manager
+Student70,94,86,66,9,4,2,1,0,0,0,0,Software Engineer
+Student676,61,65,93,0,10,6,0,0,1,0,0,Marketing Executive
+Student532,78,59,87,0,9,6,0,0,1,0,0,Business Manager
+Student829,65,68,89,3,8,9,0,1,0,0,0,Content Creator
+Student655,62,54,88,0,10,7,0,0,1,0,0,Marketing Executive
+Student892,59,51,88,2,10,9,0,1,0,0,0,Content Creator
+Student614,61,60,87,2,9,6,0,0,1,0,0,Marketing Executive
+Student882,55,62,92,2,7,10,0,1,0,0,0,Content Creator
+Student491,50,63,93,1,9,4,0,0,0,0,1,Lawyer
+Student386,65,92,70,4,7,3,0,0,0,1,0,Doctor
+Student615,64,70,90,0,9,7,0,0,1,0,0,Marketing Executive
+Student18,89,79,77,8,4,3,1,0,0,0,0,Software Engineer
+Student368,68,97,72,1,4,4,0,0,0,1,0,Doctor
+Student665,56,70,86,0,10,7,0,0,1,0,0,Marketing Executive
+Student291,90,91,61,9,5,3,1,0,0,0,0,AI/ML Engineer
+Student450,62,65,100,1,10,3,0,0,0,0,1,Lawyer
+Student840,53,68,91,0,10,9,0,1,0,0,0,Content Creator
+Student540,62,58,91,1,10,6,0,0,1,0,0,Business Manager
+Student30,91,75,69,10,6,3,1,0,0,0,0,Software Engineer
+Student357,68,98,68,2,7,5,0,0,0,1,0,Doctor
+Student155,86,86,76,8,5,2,1,0,0,0,0,Data Scientist
+Student383,72,98,73,1,6,6,0,0,0,1,0,Doctor
+Student732,72,66,78,2,8,9,0,1,0,0,0,Graphic Designer
+Student320,68,100,73,1,7,3,0,0,0,1,0,Doctor
+Student761,73,59,81,4,6,10,0,1,0,0,0,Graphic Designer
+Student688,61,52,89,1,10,7,0,0,1,0,0,Marketing Executive
+Student513,76,70,85,3,10,5,0,0,1,0,0,Business Manager
+Student37,87,85,68,8,3,3,1,0,0,0,0,Software Engineer
+Student498,55,62,99,2,9,4,0,0,0,0,1,Lawyer
+Student199,85,80,68,9,6,2,1,0,0,0,0,Data Scientist
+Student605,58,68,87,0,9,8,0,0,1,0,0,Marketing Executive
+Student297,95,97,76,10,4,2,1,0,0,0,0,AI/ML Engineer
+Student828,60,64,97,2,7,9,0,1,0,0,0,Content Creator
+Student408,56,56,89,0,9,5,0,0,0,0,1,Lawyer
+Student103,97,81,68,9,6,3,1,0,0,0,0,Data Scientist
+Student603,57,68,84,1,9,8,0,0,1,0,0,Marketing Executive
+Student894,60,61,95,0,10,10,0,1,0,0,0,Content Creator
+Student818,58,58,88,2,9,10,0,1,0,0,0,Content Creator
+Student896,69,67,94,0,8,9,0,1,0,0,0,Content Creator
+Student659,65,70,95,1,9,6,0,0,1,0,0,Marketing Executive
+Student446,57,68,99,1,9,4,0,0,0,0,1,Lawyer
+Student857,70,62,88,0,10,10,0,1,0,0,0,Content Creator
+Student588,68,65,97,2,9,3,0,0,1,0,0,Business Manager
+Student531,74,72,90,1,10,5,0,0,1,0,0,Business Manager
+Student860,67,58,83,0,9,9,0,1,0,0,0,Content Creator
+Student535,66,60,88,0,10,3,0,0,1,0,0,Business Manager
+Student639,59,66,95,1,9,6,0,0,1,0,0,Marketing Executive
+Student846,56,55,91,2,8,9,0,1,0,0,0,Content Creator
+Student251,95,91,61,10,2,4,1,0,0,0,0,AI/ML Engineer
+Student315,76,94,64,2,4,4,0,0,0,1,0,Doctor
+Student728,61,53,83,4,7,10,0,1,0,0,0,Graphic Designer
+Student560,69,74,84,2,9,5,0,0,1,0,0,Business Manager
+Student258,90,93,70,9,3,2,1,0,0,0,0,AI/ML Engineer
+Student328,71,92,78,1,5,6,0,0,0,1,0,Doctor
+Student806,64,64,97,0,9,10,0,1,0,0,0,Content Creator
+Student197,92,95,65,8,3,2,1,0,0,0,0,Data Scientist
+Student123,87,83,74,9,3,2,1,0,0,0,0,Data Scientist
+Student606,62,65,90,2,9,7,0,0,1,0,0,Marketing Executive
+Student633,67,53,91,1,9,6,0,0,1,0,0,Marketing Executive
+Student56,91,90,76,8,6,4,1,0,0,0,0,Software Engineer
+Student78,86,77,68,8,4,4,1,0,0,0,0,Software Engineer
+Student523,65,69,88,3,10,4,0,0,1,0,0,Business Manager
+Student116,98,90,76,7,3,2,1,0,0,0,0,Data Scientist
+Student473,57,50,92,2,10,4,0,0,0,0,1,Lawyer
+Student596,68,69,91,1,10,4,0,0,1,0,0,Business Manager
+Student205,100,93,63,10,3,2,1,0,0,0,0,AI/ML Engineer
+Student98,94,86,72,10,4,5,1,0,0,0,0,Software Engineer
+Student787,63,71,77,3,6,9,0,1,0,0,0,Graphic Designer
+Student545,63,73,93,1,9,5,0,0,1,0,0,Business Manager
+Student173,94,90,78,7,3,4,1,0,0,0,0,Data Scientist
+Student765,66,53,79,1,7,9,0,1,0,0,0,Graphic Designer
+Student256,95,92,61,10,3,4,1,0,0,0,0,AI/ML Engineer
+Student164,90,81,77,10,7,2,1,0,0,0,0,Data Scientist
+Student859,53,59,88,1,7,10,0,1,0,0,0,Content Creator
+Student281,92,92,64,9,4,2,1,0,0,0,0,AI/ML Engineer
+Student430,59,68,98,0,10,3,0,0,0,0,1,Lawyer
+Student571,65,59,92,0,9,4,0,0,1,0,0,Business Manager
+Student341,77,97,71,4,4,3,0,0,0,1,0,Doctor
+Student224,96,90,72,10,3,2,1,0,0,0,0,AI/ML Engineer
+Student810,61,62,83,0,9,10,0,1,0,0,0,Content Creator
+Student351,72,92,66,1,6,5,0,0,0,1,0,Doctor
+Student575,78,65,91,2,9,4,0,0,1,0,0,Business Manager
+Student524,63,66,92,2,10,3,0,0,1,0,0,Business Manager
+Student441,67,53,95,1,9,4,0,0,0,0,1,Lawyer
+Student762,71,64,72,4,5,10,0,1,0,0,0,Graphic Designer
+Student503,68,68,92,0,10,6,0,0,1,0,0,Business Manager
+Student157,93,92,63,10,5,2,1,0,0,0,0,Data Scientist
+Student735,59,62,73,1,6,9,0,1,0,0,0,Graphic Designer
+Student843,53,52,83,1,8,9,0,1,0,0,0,Content Creator
+Student669,68,69,94,1,9,7,0,0,1,0,0,Marketing Executive
+Student289,95,84,70,10,4,3,1,0,0,0,0,AI/ML Engineer
+Student234,92,93,68,10,4,4,1,0,0,0,0,AI/ML Engineer
+Student324,64,99,75,3,6,5,0,0,0,1,0,Doctor
+Student722,57,60,68,3,7,9,0,1,0,0,0,Graphic Designer
+Student666,68,63,96,1,10,6,0,0,1,0,0,Marketing Executive
+Student849,57,63,95,0,10,9,0,1,0,0,0,Content Creator
+Student51,93,90,65,8,3,2,1,0,0,0,0,Software Engineer
+Student63,87,88,76,9,5,5,1,0,0,0,0,Software Engineer
+Student295,96,86,63,10,4,4,1,0,0,0,0,AI/ML Engineer
+Student19,87,87,77,10,3,5,1,0,0,0,0,Software Engineer
+Student270,91,95,71,9,3,3,1,0,0,0,0,AI/ML Engineer
+Student499,63,52,97,1,10,2,0,0,0,0,1,Lawyer
+Student136,97,93,65,10,4,2,1,0,0,0,0,Data Scientist
+Student448,63,51,97,2,10,2,0,0,0,0,1,Lawyer
+Student426,64,59,90,1,9,4,0,0,0,0,1,Lawyer
+Student111,87,89,71,10,3,2,1,0,0,0,0,Data Scientist
+Student85,91,85,70,9,4,2,1,0,0,0,0,Software Engineer
+Student166,85,81,71,8,4,2,1,0,0,0,0,Data Scientist
+Student223,91,92,75,10,4,2,1,0,0,0,0,AI/ML Engineer
+Student266,94,96,67,10,3,4,1,0,0,0,0,AI/ML Engineer
+Student512,69,75,93,0,9,6,0,0,1,0,0,Business Manager
+Student303,65,93,77,2,4,4,0,0,0,1,0,Doctor
+Student228,92,96,63,10,2,3,1,0,0,0,0,AI/ML Engineer
+Student39,95,75,77,8,3,3,1,0,0,0,0,Software Engineer
+Student264,100,87,74,10,5,4,1,0,0,0,0,AI/ML Engineer
+Student516,75,59,92,0,9,3,0,0,1,0,0,Business Manager
+Student511,73,74,84,0,10,3,0,0,1,0,0,Business Manager
+Student427,64,51,90,2,9,3,0,0,0,0,1,Lawyer
+Student29,96,83,66,9,6,5,1,0,0,0,0,Software Engineer
+Student254,100,89,72,10,2,3,1,0,0,0,0,AI/ML Engineer
+Student21,90,77,73,9,5,2,1,0,0,0,0,Software Engineer
+Student763,55,63,78,2,6,10,0,1,0,0,0,Graphic Designer
+Student856,59,56,86,2,7,10,0,1,0,0,0,Content Creator
+Student573,64,74,95,0,9,4,0,0,1,0,0,Business Manager
+Student268,96,95,73,10,3,2,1,0,0,0,0,AI/ML Engineer
+Student109,86,94,67,8,4,2,1,0,0,0,0,Data Scientist
+Student26,92,92,67,9,4,4,1,0,0,0,0,Software Engineer
+Student794,59,54,68,3,6,10,0,1,0,0,0,Graphic Designer
+Student99,87,89,75,10,6,2,1,0,0,0,0,Software Engineer
+Student554,66,73,86,1,9,3,0,0,1,0,0,Business Manager
+Student767,63,71,79,4,7,10,0,1,0,0,0,Graphic Designer
+Student79,87,77,75,9,3,2,1,0,0,0,0,Software Engineer
+Student290,97,94,75,9,3,2,1,0,0,0,0,AI/ML Engineer
+Student128,95,93,62,10,4,5,1,0,0,0,0,Data Scientist
+Student140,90,94,75,10,6,2,1,0,0,0,0,Data Scientist
+Student144,90,93,78,10,4,2,1,0,0,0,0,Data Scientist
+Student844,70,56,89,3,10,9,0,1,0,0,0,Content Creator
+Student210,90,88,71,9,5,2,1,0,0,0,0,AI/ML Engineer
+Student17,91,92,78,9,4,4,1,0,0,0,0,Software Engineer
+Student249,99,88,60,9,5,4,1,0,0,0,0,AI/ML Engineer
+Student811,65,58,87,0,8,9,0,1,0,0,0,Content Creator
+Student879,68,59,82,3,7,9,0,1,0,0,0,Content Creator
+Student741,72,68,79,2,6,9,0,1,0,0,0,Graphic Designer
+Student454,64,60,95,0,9,5,0,0,0,0,1,Lawyer
+Student347,68,100,62,3,4,6,0,0,0,1,0,Doctor
+Student235,94,96,76,10,5,2,1,0,0,0,0,AI/ML Engineer
+Student895,57,57,82,1,9,10,0,1,0,0,0,Content Creator
+Student343,67,92,71,2,4,3,0,0,0,1,0,Doctor
+Student375,64,99,75,1,7,4,0,0,0,1,0,Doctor
+Student814,53,61,84,3,8,10,0,1,0,0,0,Content Creator
+Student106,93,87,64,10,3,2,1,0,0,0,0,Data Scientist
+Student701,58,66,78,4,5,9,0,1,0,0,0,Graphic Designer
+Student247,96,89,62,9,4,4,1,0,0,0,0,AI/ML Engineer
+Student648,69,59,91,0,10,6,0,0,1,0,0,Marketing Executive
+Student280,98,95,64,10,2,4,1,0,0,0,0,AI/ML Engineer
+Student255,97,89,76,10,5,4,1,0,0,0,0,AI/ML Engineer
+Student514,63,76,91,1,9,4,0,0,1,0,0,Business Manager
+Student207,93,86,61,10,3,3,1,0,0,0,0,AI/ML Engineer
+Student613,55,67,97,2,10,6,0,0,1,0,0,Marketing Executive
+Student202,92,98,65,10,5,2,1,0,0,0,0,AI/ML Engineer
+Student479,51,56,88,1,9,4,0,0,0,0,1,Lawyer
+Student458,60,64,96,0,9,2,0,0,0,0,1,Lawyer
+Student45,92,86,75,9,5,3,1,0,0,0,0,Software Engineer
+Student278,93,88,70,10,4,4,1,0,0,0,0,AI/ML Engineer
+Student698,56,58,97,1,9,5,0,0,1,0,0,Marketing Executive
+Student134,86,83,75,10,6,4,1,0,0,0,0,Data Scientist
+Student826,68,61,88,1,8,9,0,1,0,0,0,Content Creator
+Student124,88,94,68,10,3,2,1,0,0,0,0,Data Scientist
+Student142,96,92,77,7,7,3,1,0,0,0,0,Data Scientist
+Student181,90,88,73,10,6,5,1,0,0,0,0,Data Scientist
+Student549,64,74,97,2,10,4,0,0,1,0,0,Business Manager
+Student362,77,92,68,1,4,3,0,0,0,1,0,Doctor
+Student265,98,85,66,9,2,3,1,0,0,0,0,AI/ML Engineer
+Student500,54,61,99,0,10,4,0,0,0,0,1,Lawyer
+Student62,98,88,71,9,6,5,1,0,0,0,0,Software Engineer
+Student355,69,98,65,4,7,4,0,0,0,1,0,Doctor
+Student165,96,90,70,9,3,5,1,0,0,0,0,Data Scientist
+Student363,70,95,73,4,5,6,0,0,0,1,0,Doctor
+Student417,58,66,95,1,10,2,0,0,0,0,1,Lawyer
+Student236,90,93,71,9,5,4,1,0,0,0,0,AI/ML Engineer
+Student395,71,93,62,2,5,5,0,0,0,1,0,Doctor
+Student203,95,88,74,9,4,2,1,0,0,0,0,AI/ML Engineer
+Student587,64,74,87,0,9,3,0,0,1,0,0,Business Manager
+Student200,92,89,72,7,7,4,1,0,0,0,0,Data Scientist
+Student217,99,94,60,9,4,2,1,0,0,0,0,AI/ML Engineer
+Student319,66,91,73,1,6,3,0,0,0,1,0,Doctor
+Student374,74,99,72,2,4,3,0,0,0,1,0,Doctor
+Student777,64,72,72,3,5,9,0,1,0,0,0,Graphic Designer
+Student407,52,64,88,2,10,2,0,0,0,0,1,Lawyer
+Student756,66,63,69,2,7,9,0,1,0,0,0,Graphic Designer
+Student282,91,87,64,9,2,2,1,0,0,0,0,AI/ML Engineer
+Student132,88,91,74,9,3,2,1,0,0,0,0,Data Scientist
+Student336,65,98,72,3,5,5,0,0,0,1,0,Doctor
+Student750,56,54,77,4,5,10,0,1,0,0,0,Graphic Designer
+Student401,63,57,90,0,9,2,0,0,0,0,1,Lawyer
+Student800,64,63,79,3,8,10,0,1,0,0,0,Graphic Designer
+Student497,52,51,92,1,10,5,0,0,0,0,1,Lawyer
+Student482,54,65,92,2,10,3,0,0,0,0,1,Lawyer
+Student618,71,68,95,0,9,7,0,0,1,0,0,Marketing Executive
+Student700,61,61,87,1,10,8,0,0,1,0,0,Marketing Executive
+Student379,76,92,75,3,7,4,0,0,0,1,0,Doctor
+Student617,58,70,86,0,10,8,0,0,1,0,0,Marketing Executive
+Student776,64,69,81,3,7,9,0,1,0,0,0,Graphic Designer
+Student378,68,90,73,4,6,6,0,0,0,1,0,Doctor
+Student119,93,90,73,7,6,5,1,0,0,0,0,Data Scientist
+Student469,53,59,97,2,9,4,0,0,0,0,1,Lawyer
+Student162,90,84,72,7,3,5,1,0,0,0,0,Data Scientist
+Student189,90,88,68,7,3,5,1,0,0,0,0,Data Scientist
+Student543,67,67,91,0,10,4,0,0,1,0,0,Business Manager
+Student150,89,82,66,8,5,4,1,0,0,0,0,Data Scientist
+Student578,63,70,84,2,9,5,0,0,1,0,0,Business Manager
+Student842,66,64,89,1,10,9,0,1,0,0,0,Content Creator
+Student71,88,79,61,8,4,5,1,0,0,0,0,Software Engineer
+Student837,54,59,84,1,7,9,0,1,0,0,0,Content Creator
+Student188,85,95,67,8,6,3,1,0,0,0,0,Data Scientist
+Student489,67,50,100,1,10,2,0,0,0,0,1,Lawyer
+Student881,57,55,83,0,8,10,0,1,0,0,0,Content Creator
+Student327,70,98,72,3,5,5,0,0,0,1,0,Doctor
+Student880,62,66,97,2,8,10,0,1,0,0,0,Content Creator
+Student723,64,61,80,1,5,9,0,1,0,0,0,Graphic Designer
+Student232,98,87,74,10,3,2,1,0,0,0,0,AI/ML Engineer
+Student451,56,63,90,0,10,5,0,0,0,0,1,Lawyer
+Student832,68,58,83,0,7,10,0,1,0,0,0,Content Creator
+Student552,73,74,88,1,9,3,0,0,1,0,0,Business Manager
+Student168,87,80,62,7,4,2,1,0,0,0,0,Data Scientist
+Student337,71,97,77,3,4,4,0,0,0,1,0,Doctor
+Student730,56,70,77,1,7,10,0,1,0,0,0,Graphic Designer
+Student628,68,66,91,1,9,6,0,0,1,0,0,Marketing Executive
+Student691,70,67,90,1,10,6,0,0,1,0,0,Marketing Executive
+Student590,76,67,90,3,9,6,0,0,1,0,0,Business Manager
+Student510,71,62,96,3,9,5,0,0,1,0,0,Business Manager
+Student434,68,67,88,1,9,4,0,0,0,0,1,Lawyer
+Student672,66,60,85,0,10,6,0,0,1,0,0,Marketing Executive
+Student528,69,73,85,0,9,4,0,0,1,0,0,Business Manager
+Student570,75,72,89,2,10,6,0,0,1,0,0,Business Manager
+Student900,55,67,89,0,8,10,0,1,0,0,0,Content Creator
+Student415,61,66,94,1,10,5,0,0,0,0,1,Lawyer
+Student242,91,84,66,9,5,4,1,0,0,0,0,AI/ML Engineer
+Student46,98,78,74,9,3,2,1,0,0,0,0,Software Engineer
+Student796,62,70,68,1,7,9,0,1,0,0,0,Graphic Designer
+Student786,59,64,79,3,5,10,0,1,0,0,0,Graphic Designer
+Student897,58,68,84,0,7,10,0,1,0,0,0,Content Creator
+Student705,73,60,70,4,5,10,0,1,0,0,0,Graphic Designer
+Student579,68,72,94,3,10,5,0,0,1,0,0,Business Manager
+Student631,58,52,84,0,10,6,0,0,1,0,0,Marketing Executive
+Student90,92,79,77,8,6,5,1,0,0,0,0,Software Engineer
+Student292,97,85,76,9,3,4,1,0,0,0,0,AI/ML Engineer
+Student674,58,66,90,2,9,6,0,0,1,0,0,Marketing Executive
+Student429,52,58,92,0,9,5,0,0,0,0,1,Lawyer
+Student729,57,65,79,3,8,10,0,1,0,0,0,Graphic Designer
+Student594,62,75,93,1,9,5,0,0,1,0,0,Business Manager
+Student824,70,60,90,1,10,9,0,1,0,0,0,Content Creator
+Student138,94,82,73,10,4,3,1,0,0,0,0,Data Scientist
+Student183,92,93,66,8,3,4,1,0,0,0,0,Data Scientist
+Student803,54,68,89,1,8,10,0,1,0,0,0,Content Creator
+Student799,69,58,76,2,7,9,0,1,0,0,0,Graphic Designer
+Student94,86,85,66,10,6,5,1,0,0,0,0,Software Engineer
+Student868,69,53,86,2,8,10,0,1,0,0,0,Content Creator
+Student350,78,92,63,4,6,5,0,0,0,1,0,Doctor
+Student216,90,98,74,10,4,4,1,0,0,0,0,AI/ML Engineer
+Student311,69,90,68,2,4,4,0,0,0,1,0,Doctor
+Student392,62,98,73,2,5,4,0,0,0,1,0,Doctor
+Student285,100,89,68,10,3,2,1,0,0,0,0,AI/ML Engineer
+Student481,53,66,88,1,9,2,0,0,0,0,1,Lawyer
+Student323,72,93,67,2,5,6,0,0,0,1,0,Doctor
+Student180,96,84,72,9,4,4,1,0,0,0,0,Data Scientist
+Student551,72,76,91,1,9,3,0,0,1,0,0,Business Manager
+Student601,60,52,91,2,10,8,0,0,1,0,0,Marketing Executive
+Student159,93,82,76,7,5,5,1,0,0,0,0,Data Scientist
+Student609,62,57,96,0,10,5,0,0,1,0,0,Marketing Executive
+Student474,53,50,93,1,9,3,0,0,0,0,1,Lawyer
+Student734,70,58,71,4,8,9,0,1,0,0,0,Graphic Designer
+Student284,97,98,71,9,5,3,1,0,0,0,0,AI/ML Engineer
+Student889,62,51,92,3,9,10,0,1,0,0,0,Content Creator
+Student307,68,99,71,2,6,3,0,0,0,1,0,Doctor
+Student661,72,65,88,1,10,8,0,0,1,0,0,Marketing Executive
+Student675,72,67,88,1,10,8,0,0,1,0,0,Marketing Executive
+Student238,95,92,76,10,2,3,1,0,0,0,0,AI/ML Engineer
+Student273,99,86,64,9,3,3,1,0,0,0,0,AI/ML Engineer
+Student520,63,61,95,2,9,5,0,0,1,0,0,Business Manager
+Student457,50,60,94,1,9,3,0,0,0,0,1,Lawyer
+Student660,55,68,88,0,10,8,0,0,1,0,0,Marketing Executive
+Student64,96,77,66,10,5,5,1,0,0,0,0,Software Engineer
+Student459,53,61,96,1,10,2,0,0,0,0,1,Lawyer
+Student391,65,97,73,1,7,3,0,0,0,1,0,Doctor
+Student222,98,85,63,10,3,4,1,0,0,0,0,AI/ML Engineer
+Student604,66,56,91,1,9,7,0,0,1,0,0,Marketing Executive
+Student271,99,89,60,9,5,4,1,0,0,0,0,AI/ML Engineer
+Student371,64,97,78,1,4,6,0,0,0,1,0,Doctor
+Student10,90,82,72,8,6,3,1,0,0,0,0,Software Engineer
+Student432,54,51,91,0,10,4,0,0,0,0,1,Lawyer
+Student399,66,95,70,2,4,3,0,0,0,1,0,Doctor
+Student77,90,80,63,10,3,3,1,0,0,0,0,Software Engineer
+Student400,67,96,73,2,7,3,0,0,0,1,0,Doctor
+Student656,64,59,95,2,10,7,0,0,1,0,0,Marketing Executive
+Student23,91,78,75,10,6,3,1,0,0,0,0,Software Engineer
+Student475,55,62,90,1,9,3,0,0,0,0,1,Lawyer
+Student492,68,58,98,2,9,2,0,0,0,0,1,Lawyer
+Student546,63,67,96,3,9,6,0,0,1,0,0,Business Manager
+Student102,90,86,76,10,3,5,1,0,0,0,0,Data Scientist
+Student245,100,85,65,9,4,4,1,0,0,0,0,AI/ML Engineer
+Student898,57,54,91,3,10,9,0,1,0,0,0,Content Creator
+Student358,70,95,78,4,4,6,0,0,0,1,0,Doctor
+Student15,100,85,66,10,5,3,1,0,0,0,0,Software Engineer
+Student716,67,68,80,3,7,9,0,1,0,0,0,Graphic Designer
+Student332,64,95,70,3,5,5,0,0,0,1,0,Doctor
+Student115,84,92,70,7,4,2,1,0,0,0,0,Data Scientist
+Student43,94,82,62,9,6,3,1,0,0,0,0,Software Engineer
+Student471,67,54,97,0,9,2,0,0,0,0,1,Lawyer
+Student435,62,57,93,2,9,2,0,0,0,0,1,Lawyer
+Student538,65,74,95,1,9,6,0,0,1,0,0,Business Manager
+Student65,95,76,75,9,5,2,1,0,0,0,0,Software Engineer
+Student433,57,56,91,1,10,3,0,0,0,0,1,Lawyer
+Student366,76,93,69,1,7,5,0,0,0,1,0,Doctor
+Student16,100,81,75,8,3,2,1,0,0,0,0,Software Engineer
+Student309,75,94,65,3,6,3,0,0,0,1,0,Doctor
+Student563,67,59,93,3,9,4,0,0,1,0,0,Business Manager
+Student518,62,68,88,1,9,5,0,0,1,0,0,Business Manager
+Student611,65,66,93,2,9,6,0,0,1,0,0,Marketing Executive
+Student80,97,92,77,9,4,5,1,0,0,0,0,Software Engineer
+Student262,92,88,75,10,5,3,1,0,0,0,0,AI/ML Engineer
+Student139,93,96,72,7,3,4,1,0,0,0,0,Data Scientist
+Student678,60,65,94,1,10,5,0,0,1,0,0,Marketing Executive
+Student333,66,96,64,1,6,3,0,0,0,1,0,Doctor
+Student422,68,58,96,0,9,4,0,0,0,0,1,Lawyer
+Student739,74,67,83,1,5,10,0,1,0,0,0,Graphic Designer
+Student340,73,96,74,2,7,6,0,0,0,1,0,Doctor
+Student533,66,61,86,0,10,3,0,0,1,0,0,Business Manager
+Student760,57,72,77,2,5,9,0,1,0,0,0,Graphic Designer
+Student537,71,66,93,3,9,5,0,0,1,0,0,Business Manager
+Student502,78,73,90,1,10,5,0,0,1,0,0,Business Manager
+Student125,90,96,64,10,7,4,1,0,0,0,0,Data Scientist
+Student874,58,51,85,2,7,10,0,1,0,0,0,Content Creator
+Student176,90,85,63,8,7,3,1,0,0,0,0,Data Scientist
+Student477,51,65,95,2,9,5,0,0,0,0,1,Lawyer
+Student822,63,51,96,0,9,9,0,1,0,0,0,Content Creator
+Student562,73,60,94,0,10,3,0,0,1,0,0,Business Manager
+Student653,55,57,85,2,9,6,0,0,1,0,0,Marketing Executive
+Student313,73,98,67,1,4,6,0,0,0,1,0,Doctor
+Student259,95,91,60,10,3,3,1,0,0,0,0,AI/ML Engineer
+Student758,66,62,83,1,8,9,0,1,0,0,0,Graphic Designer
+Student152,93,92,76,10,5,5,1,0,0,0,0,Data Scientist
+Student380,76,98,76,3,5,3,0,0,0,1,0,Doctor
+Student58,100,90,60,8,5,3,1,0,0,0,0,Software Engineer
+Student277,100,91,71,10,3,2,1,0,0,0,0,AI/ML Engineer
+Student697,57,55,89,1,10,5,0,0,1,0,0,Marketing Executive
+Student662,72,53,92,0,9,5,0,0,1,0,0,Marketing Executive
+Student683,69,64,93,1,10,5,0,0,1,0,0,Marketing Executive
+Student820,55,59,83,0,7,10,0,1,0,0,0,Content Creator
+Student170,95,94,65,9,6,3,1,0,0,0,0,Data Scientist
+Student593,62,71,86,2,10,5,0,0,1,0,0,Business Manager
+Student641,60,54,87,2,9,8,0,0,1,0,0,Marketing Executive
+Student872,68,52,82,0,8,10,0,1,0,0,0,Content Creator
+Student484,52,63,97,0,10,4,0,0,0,0,1,Lawyer
+Student564,68,66,96,0,10,4,0,0,1,0,0,Business Manager
+Student866,59,68,96,0,9,10,0,1,0,0,0,Content Creator
+Student133,95,86,70,7,7,3,1,0,0,0,0,Data Scientist
+Student182,86,86,64,8,6,3,1,0,0,0,0,Data Scientist
+Student127,84,85,78,9,3,4,1,0,0,0,0,Data Scientist
+Student495,65,56,96,0,9,4,0,0,0,0,1,Lawyer
+Student569,66,72,96,2,9,4,0,0,1,0,0,Business Manager
+Student721,65,60,69,2,6,9,0,1,0,0,0,Graphic Designer
+Student229,95,91,68,9,3,2,1,0,0,0,0,AI/ML Engineer
+Student233,94,88,62,9,3,4,1,0,0,0,0,AI/ML Engineer
+Student4,90,78,62,9,6,5,1,0,0,0,0,Software Engineer
+Student226,97,93,63,10,3,4,1,0,0,0,0,AI/ML Engineer
+Student591,75,71,86,2,9,4,0,0,1,0,0,Business Manager
+Student7,91,82,74,10,4,5,1,0,0,0,0,Software Engineer
+Student724,57,72,71,1,5,9,0,1,0,0,0,Graphic Designer
+Student246,97,90,72,9,3,2,1,0,0,0,0,AI/ML Engineer
+Student534,70,72,94,3,9,4,0,0,1,0,0,Business Manager
+Student81,89,89,70,9,3,2,1,0,0,0,0,Software Engineer
+Student725,64,59,79,4,7,9,0,1,0,0,0,Graphic Designer
+Student757,56,59,83,1,6,10,0,1,0,0,0,Graphic Designer
+Student494,61,50,95,1,9,3,0,0,0,0,1,Lawyer
+Student693,56,63,90,0,10,5,0,0,1,0,0,Marketing Executive
+Student158,98,89,70,8,3,5,1,0,0,0,0,Data Scientist
+Student684,65,59,88,1,9,5,0,0,1,0,0,Marketing Executive
+Student478,63,54,94,2,9,3,0,0,0,0,1,Lawyer
+Student310,78,92,68,1,5,6,0,0,0,1,0,Doctor
+Student151,97,91,62,10,3,3,1,0,0,0,0,Data Scientist
+Student92,100,91,61,10,4,2,1,0,0,0,0,Software Engineer
+Student385,72,100,78,2,6,6,0,0,0,1,0,Doctor
+Student428,51,63,97,0,10,5,0,0,0,0,1,Lawyer
+Student361,78,96,66,2,7,5,0,0,0,1,0,Doctor
+Student597,64,64,87,2,10,6,0,0,1,0,0,Business Manager
+Student798,63,71,78,3,7,9,0,1,0,0,0,Graphic Designer
+Student342,76,99,68,4,5,6,0,0,0,1,0,Doctor
+Student212,91,85,68,9,4,4,1,0,0,0,0,AI/ML Engineer
+Student348,73,90,62,4,7,6,0,0,0,1,0,Doctor
+Student812,58,59,95,0,8,9,0,1,0,0,0,Content Creator
+Student694,68,53,97,0,10,5,0,0,1,0,0,Marketing Executive
+Student393,76,93,63,2,4,3,0,0,0,1,0,Doctor
+Student215,100,85,74,9,4,4,1,0,0,0,0,AI/ML Engineer
+Student746,68,54,73,2,7,10,0,1,0,0,0,Graphic Designer
+Student452,67,56,89,0,10,5,0,0,0,0,1,Lawyer
+Student42,100,74,65,10,3,2,1,0,0,0,0,Software Engineer
+Student107,95,82,74,8,4,2,1,0,0,0,0,Data Scientist
+Student547,68,66,94,2,10,5,0,0,1,0,0,Business Manager
+Student97,89,75,61,10,3,5,1,0,0,0,0,Software Engineer
+Student699,59,56,89,0,9,7,0,0,1,0,0,Marketing Executive
+Student298,98,94,76,9,4,2,1,0,0,0,0,AI/ML Engineer
+Student506,77,64,89,3,9,3,0,0,1,0,0,Business Manager
+Student754,65,63,75,4,6,9,0,1,0,0,0,Graphic Designer
+Student250,100,86,76,10,5,3,1,0,0,0,0,AI/ML Engineer
+Student269,98,94,65,9,3,4,1,0,0,0,0,AI/ML Engineer
+Student283,98,88,69,10,4,2,1,0,0,0,0,AI/ML Engineer
+Student703,62,62,70,3,6,10,0,1,0,0,0,Graphic Designer
+Student335,78,92,68,4,5,3,0,0,0,1,0,Doctor
+Student667,55,63,90,1,9,8,0,0,1,0,0,Marketing Executive
+Student219,94,92,61,10,5,2,1,0,0,0,0,AI/ML Engineer
+Student623,67,59,85,1,9,6,0,0,1,0,0,Marketing Executive
+Student651,62,63,84,0,9,8,0,0,1,0,0,Marketing Executive
+Student185,84,86,62,10,7,4,1,0,0,0,0,Data Scientist
+Student616,62,61,89,2,10,5,0,0,1,0,0,Marketing Executive
+Student566,69,67,86,1,9,4,0,0,1,0,0,Business Manager
+Student592,69,75,97,1,10,4,0,0,1,0,0,Business Manager
+Student120,97,82,68,9,4,2,1,0,0,0,0,Data Scientist
+Student267,90,94,71,10,2,3,1,0,0,0,0,AI/ML Engineer
+Student851,63,54,91,0,10,9,0,1,0,0,0,Content Creator
+Student318,71,91,69,3,5,6,0,0,0,1,0,Doctor
+Student32,90,83,72,9,3,4,1,0,0,0,0,Software Engineer
+Student480,66,65,93,2,10,5,0,0,0,0,1,Lawyer
+Student409,59,56,92,2,9,4,0,0,0,0,1,Lawyer
+Student608,68,66,94,2,9,5,0,0,1,0,0,Marketing Executive
+Student187,95,87,72,8,3,2,1,0,0,0,0,Data Scientist
+Student34,86,85,77,9,4,2,1,0,0,0,0,Software Engineer
+Student823,70,60,85,1,10,10,0,1,0,0,0,Content Creator
+Student805,55,66,93,0,10,9,0,1,0,0,0,Content Creator
+Student501,63,63,86,2,10,4,0,0,1,0,0,Business Manager
+Student104,86,84,62,8,7,2,1,0,0,0,0,Data Scientist
+Student33,88,77,71,9,6,5,1,0,0,0,0,Software Engineer
+Student852,54,53,91,2,9,9,0,1,0,0,0,Content Creator
+Student196,93,83,77,7,3,2,1,0,0,0,0,Data Scientist
+Student447,51,53,97,0,9,4,0,0,0,0,1,Lawyer
+Student91,87,91,76,10,6,3,1,0,0,0,0,Software Engineer
+Student20,99,84,62,10,3,3,1,0,0,0,0,Software Engineer
+Student194,89,92,67,9,7,4,1,0,0,0,0,Data Scientist
+Student793,68,54,71,3,7,9,0,1,0,0,0,Graphic Designer
+Student689,63,60,94,0,9,5,0,0,1,0,0,Marketing Executive
+Student69,89,76,63,10,4,2,1,0,0,0,0,Software Engineer
+Student5,88,82,71,8,6,5,1,0,0,0,0,Software Engineer
+Student402,55,63,99,0,9,5,0,0,0,0,1,Lawyer
+Student673,55,54,86,0,10,8,0,0,1,0,0,Marketing Executive
+Student11,95,81,66,10,5,3,1,0,0,0,0,Software Engineer
+Student779,62,61,77,3,7,9,0,1,0,0,0,Graphic Designer
+Student304,77,100,66,1,6,5,0,0,0,1,0,Doctor
+Student449,65,59,88,2,10,4,0,0,0,0,1,Lawyer
+Student339,66,97,62,1,7,3,0,0,0,1,0,Doctor
+Student198,94,94,64,10,6,4,1,0,0,0,0,Data Scientist
+Student710,68,57,79,1,7,10,0,1,0,0,0,Graphic Designer
+Student581,69,64,86,0,9,3,0,0,1,0,0,Business Manager
+Student815,59,63,86,2,9,10,0,1,0,0,0,Content Creator
+Student519,75,74,93,1,10,5,0,0,1,0,0,Business Manager
+Student720,62,59,84,2,5,9,0,1,0,0,0,Graphic Designer
+Student420,58,67,93,2,9,2,0,0,0,0,1,Lawyer
+Student390,75,96,77,4,6,4,0,0,0,1,0,Doctor
+Student257,95,89,76,9,5,3,1,0,0,0,0,AI/ML Engineer
+Student387,65,93,71,4,6,3,0,0,0,1,0,Doctor
+Student696,70,54,85,2,10,8,0,0,1,0,0,Marketing Executive
+Student561,67,76,84,1,10,3,0,0,1,0,0,Business Manager
+Student305,68,97,74,3,4,4,0,0,0,1,0,Doctor
+Student294,98,96,71,10,3,3,1,0,0,0,0,AI/ML Engineer
+Student467,60,59,93,0,9,5,0,0,0,0,1,Lawyer
+Student40,94,85,77,9,5,3,1,0,0,0,0,Software Engineer
+Student360,66,92,66,3,6,5,0,0,0,1,0,Doctor
+Student27,92,80,71,9,3,4,1,0,0,0,0,Software Engineer
+Student135,89,88,64,10,5,3,1,0,0,0,0,Data Scientist
+Student539,70,65,95,1,10,3,0,0,1,0,0,Business Manager
+Student209,93,97,70,10,3,4,1,0,0,0,0,AI/ML Engineer
+Student191,87,95,63,10,5,2,1,0,0,0,0,Data Scientist
+Student759,67,71,77,4,8,10,0,1,0,0,0,Graphic Designer
+Student899,59,60,84,1,10,9,0,1,0,0,0,Content Creator
+Student635,72,69,88,0,9,5,0,0,1,0,0,Marketing Executive
+Student854,60,51,85,3,8,10,0,1,0,0,0,Content Creator
+Student583,63,62,87,0,9,4,0,0,1,0,0,Business Manager
+Student709,59,69,70,4,7,9,0,1,0,0,0,Graphic Designer
+Student658,62,55,87,1,9,5,0,0,1,0,0,Marketing Executive
+Student544,71,65,96,1,9,5,0,0,1,0,0,Business Manager
+Student369,63,99,63,4,7,6,0,0,0,1,0,Doctor
+Student858,64,67,93,2,10,9,0,1,0,0,0,Content Creator
+Student423,61,55,96,0,10,5,0,0,0,0,1,Lawyer
+Student877,56,64,85,1,9,9,0,1,0,0,0,Content Creator
+Student789,63,70,74,4,5,10,0,1,0,0,0,Graphic Designer
+Student118,98,94,62,10,7,2,1,0,0,0,0,Data Scientist
+Student130,87,89,78,10,4,2,1,0,0,0,0,Data Scientist
+Student830,67,51,91,0,7,9,0,1,0,0,0,Content Creator
+Student646,61,59,85,0,9,7,0,0,1,0,0,Marketing Executive
+Student586,69,69,92,3,9,4,0,0,1,0,0,Business Manager
+Student792,74,64,83,4,6,10,0,1,0,0,0,Graphic Designer
+Student12,87,87,74,9,3,5,1,0,0,0,0,Software Engineer
+Student338,70,99,66,4,5,4,0,0,0,1,0,Doctor
+Student707,64,60,82,3,7,10,0,1,0,0,0,Graphic Designer
+Student702,64,52,76,1,8,10,0,1,0,0,0,Graphic Designer
+Student813,61,59,84,0,8,10,0,1,0,0,0,Content Creator
+Student553,71,76,84,2,9,5,0,0,1,0,0,Business Manager
+Student437,60,50,100,0,9,5,0,0,0,0,1,Lawyer
+Student521,72,75,88,1,9,5,0,0,1,0,0,Business Manager
+Student384,68,99,70,4,4,5,0,0,0,1,0,Doctor
+Student96,86,86,72,8,4,5,1,0,0,0,0,Software Engineer
+Student13,100,75,67,8,6,5,1,0,0,0,0,Software Engineer
+Student612,61,62,88,2,9,6,0,0,1,0,0,Marketing Executive
+Student354,67,93,76,1,6,4,0,0,0,1,0,Doctor
+Student850,55,50,84,1,8,9,0,1,0,0,0,Content Creator
+Student444,50,63,98,1,10,3,0,0,0,0,1,Lawyer
+Student878,64,68,88,0,10,10,0,1,0,0,0,Content Creator
+Student690,57,64,88,2,10,7,0,0,1,0,0,Marketing Executive
+Student848,52,51,89,2,7,9,0,1,0,0,0,Content Creator
+Student376,66,98,76,1,6,6,0,0,0,1,0,Doctor
+Student838,57,58,91,0,10,10,0,1,0,0,0,Content Creator
+Student334,72,95,72,2,7,5,0,0,0,1,0,Doctor
+Student738,63,53,76,1,7,10,0,1,0,0,0,Graphic Designer
+Student670,62,55,92,0,10,5,0,0,1,0,0,Marketing Executive
+Student825,70,51,94,2,8,10,0,1,0,0,0,Content Creator
+Student410,55,67,90,1,10,5,0,0,0,0,1,Lawyer
+Student2,99,81,65,8,3,3,1,0,0,0,0,Software Engineer
+Student105,88,85,77,8,6,2,1,0,0,0,0,Data Scientist
+Student299,94,98,69,10,4,2,1,0,0,0,0,AI/ML Engineer
+Student445,60,56,98,0,9,4,0,0,0,0,1,Lawyer
+Student413,52,54,90,2,9,5,0,0,0,0,1,Lawyer
+Student316,77,95,78,1,4,4,0,0,0,1,0,Doctor
+Student167,92,94,62,8,6,5,1,0,0,0,0,Data Scientist
+Student275,94,84,73,10,3,2,1,0,0,0,0,AI/ML Engineer
+Student31,88,75,63,9,4,3,1,0,0,0,0,Software Engineer
+Student412,56,57,97,0,9,4,0,0,0,0,1,Lawyer
+Student460,65,61,95,1,10,5,0,0,0,0,1,Lawyer
+Student72,95,79,73,10,3,5,1,0,0,0,0,Software Engineer
+Student414,65,56,98,1,9,2,0,0,0,0,1,Lawyer
+Student14,96,82,65,10,6,4,1,0,0,0,0,Software Engineer
+Student261,91,94,74,9,5,4,1,0,0,0,0,AI/ML Engineer
+Student317,73,91,75,3,4,4,0,0,0,1,0,Doctor
+Student643,55,57,88,2,10,5,0,0,1,0,0,Marketing Executive
+Student610,72,52,95,1,9,7,0,0,1,0,0,Marketing Executive
+Student556,72,63,90,0,9,6,0,0,1,0,0,Business Manager
+Student122,94,95,71,10,4,5,1,0,0,0,0,Data Scientist
+Student751,64,52,78,1,8,9,0,1,0,0,0,Graphic Designer
+Student195,91,81,76,10,5,5,1,0,0,0,0,Data Scientist
+Student853,64,62,91,2,7,10,0,1,0,0,0,Content Creator
+Student808,66,66,96,2,8,9,0,1,0,0,0,Content Creator
+Student836,58,59,90,0,10,9,0,1,0,0,0,Content Creator
+Student83,93,74,73,8,3,3,1,0,0,0,0,Software Engineer
+Student529,73,72,96,3,9,3,0,0,1,0,0,Business Manager
+Student312,69,93,66,4,6,6,0,0,0,1,0,Doctor
+Student711,56,57,75,2,7,10,0,1,0,0,0,Graphic Designer
+Student193,89,84,72,8,5,3,1,0,0,0,0,Data Scientist
+Student632,61,60,96,0,9,5,0,0,1,0,0,Marketing Executive
+Student677,68,65,93,1,9,8,0,0,1,0,0,Marketing Executive
+Student644,62,65,84,1,10,8,0,0,1,0,0,Marketing Executive
+Student225,95,85,68,9,3,4,1,0,0,0,0,AI/ML Engineer
+Student453,51,63,100,1,9,2,0,0,0,0,1,Lawyer
+Student558,66,67,96,2,9,4,0,0,1,0,0,Business Manager
+Student25,97,78,68,9,4,4,1,0,0,0,0,Software Engineer
+Student536,63,59,91,1,10,5,0,0,1,0,0,Business Manager
+Student75,97,87,69,9,5,3,1,0,0,0,0,Software Engineer
+Student114,94,84,75,9,4,5,1,0,0,0,0,Data Scientist
+Student108,95,80,74,8,6,4,1,0,0,0,0,Data Scientist
+Student48,99,85,73,8,6,5,1,0,0,0,0,Software Engineer
+Student559,77,61,90,1,9,5,0,0,1,0,0,Business Manager
+Student8,96,88,77,8,5,3,1,0,0,0,0,Software Engineer
+Student89,91,87,72,9,3,3,1,0,0,0,0,Software Engineer
+Student819,54,61,86,3,8,9,0,1,0,0,0,Content Creator
+Student483,63,63,95,0,10,2,0,0,0,0,1,Lawyer
+Student865,62,67,93,1,8,9,0,1,0,0,0,Content Creator
+Student893,69,51,85,3,9,10,0,1,0,0,0,Content Creator
+Student38,96,81,76,9,4,5,1,0,0,0,0,Software Engineer
+Student809,55,62,85,1,7,10,0,1,0,0,0,Content Creator
+Student770,59,60,79,1,6,9,0,1,0,0,0,Graphic Designer
+Student640,58,55,97,1,10,8,0,0,1,0,0,Marketing Executive
+Student861,58,67,85,3,10,10,0,1,0,0,0,Content Creator
+Student462,54,56,96,1,10,3,0,0,0,0,1,Lawyer
+Student867,61,62,83,1,8,10,0,1,0,0,0,Content Creator
+Student241,92,95,64,9,3,4,1,0,0,0,0,AI/ML Engineer
+Student465,57,64,89,2,10,3,0,0,0,0,1,Lawyer
+Student230,94,92,65,9,3,2,1,0,0,0,0,AI/ML Engineer
+Student353,67,94,62,1,6,6,0,0,0,1,0,Doctor
+Student875,65,57,86,2,8,10,0,1,0,0,0,Content Creator
+Student344,69,91,68,4,7,6,0,0,0,1,0,Doctor
+Student73,99,90,64,8,3,4,1,0,0,0,0,Software Engineer
+Student522,76,64,86,2,10,3,0,0,1,0,0,Business Manager
+Student302,74,92,78,3,7,4,0,0,0,1,0,Doctor
+Student507,66,68,90,0,9,5,0,0,1,0,0,Business Manager
+Student260,95,90,76,9,3,3,1,0,0,0,0,AI/ML Engineer
+Student847,59,67,83,3,9,10,0,1,0,0,0,Content Creator
+Student834,53,51,82,3,9,10,0,1,0,0,0,Content Creator
+Student870,52,65,96,0,10,10,0,1,0,0,0,Content Creator
+Student53,89,87,60,10,3,3,1,0,0,0,0,Software Engineer
+Student220,95,93,71,9,2,3,1,0,0,0,0,AI/ML Engineer
+Student36,100,81,64,8,6,4,1,0,0,0,0,Software Engineer
+Student769,64,54,78,4,6,9,0,1,0,0,0,Graphic Designer
+Student490,61,50,89,0,10,4,0,0,0,0,1,Lawyer
+Student784,61,60,82,4,7,9,0,1,0,0,0,Graphic Designer
+Student131,85,90,67,7,4,3,1,0,0,0,0,Data Scientist
+Student74,95,75,76,10,4,2,1,0,0,0,0,Software Engineer
+Student356,62,99,74,1,4,3,0,0,0,1,0,Doctor
+Student381,66,96,73,4,7,3,0,0,0,1,0,Doctor
+Student272,98,86,64,10,4,4,1,0,0,0,0,AI/ML Engineer
+Student821,52,68,82,0,10,9,0,1,0,0,0,Content Creator
+Student743,72,65,76,2,7,9,0,1,0,0,0,Graphic Designer
+Student204,95,84,67,10,3,2,1,0,0,0,0,AI/ML Engineer
+Student66,97,88,72,9,6,2,1,0,0,0,0,Software Engineer
+Student649,64,62,91,2,9,7,0,0,1,0,0,Marketing Executive
+Student171,98,81,62,10,5,5,1,0,0,0,0,Data Scientist
+Student112,96,94,76,8,4,4,1,0,0,0,0,Data Scientist
+Student485,52,55,90,1,10,3,0,0,0,0,1,Lawyer
+Student883,67,57,91,0,7,9,0,1,0,0,0,Content Creator
+Student439,51,54,97,0,10,2,0,0,0,0,1,Lawyer
+Student687,66,64,94,1,10,8,0,0,1,0,0,Marketing Executive
+Student771,70,71,81,4,6,10,0,1,0,0,0,Graphic Designer
+Student752,64,70,74,4,6,9,0,1,0,0,0,Graphic Designer
+Student712,72,70,80,4,6,9,0,1,0,0,0,Graphic Designer
+Student456,54,60,94,0,10,3,0,0,0,0,1,Lawyer
+Student149,89,89,72,9,4,2,1,0,0,0,0,Data Scientist
+Student160,86,91,77,8,7,4,1,0,0,0,0,Data Scientist
+Student565,73,71,91,0,9,5,0,0,1,0,0,Business Manager
+Student509,77,64,91,3,10,3,0,0,1,0,0,Business Manager
+Student61,88,79,63,8,4,2,1,0,0,0,0,Software Engineer
+Student3,97,83,60,9,4,2,1,0,0,0,0,Software Engineer
+Student463,66,55,96,2,9,3,0,0,0,0,1,Lawyer
+Student156,92,93,78,7,3,5,1,0,0,0,0,Data Scientist
+Student704,65,58,83,3,6,9,0,1,0,0,0,Graphic Designer
+Student121,93,84,64,10,7,4,1,0,0,0,0,Data Scientist
+Student630,71,52,94,1,10,7,0,0,1,0,0,Marketing Executive
+Student652,66,55,90,0,9,7,0,0,1,0,0,Marketing Executive
+Student788,71,63,80,2,5,9,0,1,0,0,0,Graphic Designer
+Student855,54,52,86,1,10,9,0,1,0,0,0,Content Creator
+Student600,64,76,90,0,9,4,0,0,1,0,0,Business Manager
+Student680,58,62,90,0,9,5,0,0,1,0,0,Marketing Executive
+Student163,87,93,71,9,6,3,1,0,0,0,0,Data Scientist
+Student377,66,93,63,2,7,5,0,0,0,1,0,Doctor
+Student276,95,94,62,9,3,4,1,0,0,0,0,AI/ML Engineer
+Student214,98,96,64,10,2,3,1,0,0,0,0,AI/ML Engineer
+Student550,66,62,93,3,10,5,0,0,1,0,0,Business Manager
+Student461,51,60,98,1,10,3,0,0,0,0,1,Lawyer
+Student572,72,66,88,3,10,5,0,0,1,0,0,Business Manager
+Student791,69,68,70,1,7,10,0,1,0,0,0,Graphic Designer
+Student389,74,98,69,1,5,4,0,0,0,1,0,Doctor
+Student621,57,64,87,1,9,5,0,0,1,0,0,Marketing Executive
+Student488,66,59,96,2,10,5,0,0,0,0,1,Lawyer
+Student41,94,83,68,8,5,2,1,0,0,0,0,Software Engineer
+Student169,92,84,71,9,3,5,1,0,0,0,0,Data Scientist
+Student346,76,96,72,1,7,4,0,0,0,1,0,Doctor
+Student869,54,56,89,2,8,9,0,1,0,0,0,Content Creator
+Student288,94,84,74,9,2,4,1,0,0,0,0,AI/ML Engineer
+Student6,96,85,73,10,5,2,1,0,0,0,0,Software Engineer
+Student887,58,59,94,2,7,10,0,1,0,0,0,Content Creator
+Student797,70,71,74,4,6,9,0,1,0,0,0,Graphic Designer
+Student330,71,100,71,2,7,3,0,0,0,1,0,Doctor
+Student527,76,73,92,3,9,4,0,0,1,0,0,Business Manager
+Student82,97,89,62,10,3,4,1,0,0,0,0,Software Engineer
+Student736,56,71,70,2,8,10,0,1,0,0,0,Graphic Designer
+Student634,66,70,93,2,9,7,0,0,1,0,0,Marketing Executive
+Student161,97,94,78,10,5,4,1,0,0,0,0,Data Scientist
+Student599,72,70,96,1,10,4,0,0,1,0,0,Business Manager
+Student620,63,54,88,0,10,5,0,0,1,0,0,Marketing Executive
+Student248,90,87,76,9,2,2,1,0,0,0,0,AI/ML Engineer
+Student487,51,62,90,0,9,5,0,0,0,0,1,Lawyer
+Student885,60,52,85,1,9,10,0,1,0,0,0,Content Creator
+Student54,90,78,61,10,6,4,1,0,0,0,0,Software Engineer
+Student370,78,92,73,4,4,5,0,0,0,1,0,Doctor
+Student470,64,60,98,1,9,4,0,0,0,0,1,Lawyer
+Student801,62,51,92,2,8,10,0,1,0,0,0,Content Creator
+Student406,65,62,95,0,9,4,0,0,0,0,1,Lawyer
+Student153,85,80,70,8,4,2,1,0,0,0,0,Data Scientist
+Student148,89,86,71,10,5,3,1,0,0,0,0,Data Scientist
+Student372,70,96,75,2,5,5,0,0,0,1,0,Doctor
+Student404,65,60,94,1,10,3,0,0,0,0,1,Lawyer
+Student388,63,90,62,1,4,3,0,0,0,1,0,Doctor
+Student263,91,88,61,9,5,4,1,0,0,0,0,AI/ML Engineer
+Student657,67,67,88,0,9,7,0,0,1,0,0,Marketing Executive
+Student568,74,65,88,2,9,6,0,0,1,0,0,Business Manager
+Student329,67,98,65,3,7,4,0,0,0,1,0,Doctor
+Student352,77,92,71,3,5,3,0,0,0,1,0,Doctor
+Student211,99,84,64,10,2,4,1,0,0,0,0,AI/ML Engineer
+Student802,67,53,94,0,10,10,0,1,0,0,0,Content Creator
+Student785,56,57,68,1,7,10,0,1,0,0,0,Graphic Designer
+Student517,70,74,91,1,10,6,0,0,1,0,0,Business Manager
+Student44,95,83,61,8,3,4,1,0,0,0,0,Software Engineer
+Student84,89,85,64,9,6,2,1,0,0,0,0,Software Engineer
+Student685,58,59,85,2,9,5,0,0,1,0,0,Marketing Executive
+Student455,65,54,92,1,9,5,0,0,0,0,1,Lawyer
+Student466,53,64,95,2,10,2,0,0,0,0,1,Lawyer
+Student364,63,92,77,4,5,4,0,0,0,1,0,Doctor
+Student22,93,90,71,8,3,4,1,0,0,0,0,Software Engineer
+Student59,100,88,71,8,5,3,1,0,0,0,0,Software Engineer
+Student438,59,64,89,1,9,5,0,0,0,0,1,Lawyer
+Student306,75,94,65,3,4,6,0,0,0,1,0,Doctor
+Student141,89,93,78,8,5,4,1,0,0,0,0,Data Scientist
+Student863,59,55,93,2,8,10,0,1,0,0,0,Content Creator
+Student253,99,96,72,9,2,4,1,0,0,0,0,AI/ML Engineer
+Student526,68,60,87,1,10,3,0,0,1,0,0,Business Manager
+Student790,67,62,79,3,6,10,0,1,0,0,0,Graphic Designer
+Student862,60,61,91,1,10,10,0,1,0,0,0,Content Creator
+Student425,61,52,94,1,9,5,0,0,0,0,1,Lawyer
+Student719,61,57,79,3,7,9,0,1,0,0,0,Graphic Designer
+Student296,96,86,74,9,2,4,1,0,0,0,0,AI/ML Engineer
+Student891,56,58,95,0,9,9,0,1,0,0,0,Content Creator
+Student416,59,51,89,2,10,3,0,0,0,0,1,Lawyer
+Student100,100,91,76,10,3,2,1,0,0,0,0,Software Engineer
+Student287,94,90,64,10,2,2,1,0,0,0,0,AI/ML Engineer
+Student654,60,56,88,0,10,6,0,0,1,0,0,Marketing Executive
+Student208,100,85,62,10,4,4,1,0,0,0,0,AI/ML Engineer
+Student382,70,95,74,2,4,3,0,0,0,1,0,Doctor
+Student301,75,99,76,1,6,6,0,0,0,1,0,Doctor
+Student692,68,53,95,0,10,7,0,0,1,0,0,Marketing Executive
+Student175,87,89,69,9,5,2,1,0,0,0,0,Data Scientist
+Student679,69,70,86,1,9,7,0,0,1,0,0,Marketing Executive
+Student841,64,59,82,0,10,9,0,1,0,0,0,Content Creator
+Student405,53,52,91,0,9,4,0,0,0,0,1,Lawyer
+Student431,61,65,98,0,10,3,0,0,0,0,1,Lawyer
+Student50,98,86,75,8,3,2,1,0,0,0,0,Software Engineer
+Student598,78,71,86,1,10,4,0,0,1,0,0,Business Manager
+Student584,75,63,85,1,10,6,0,0,1,0,0,Business Manager
+Student622,71,54,84,2,9,7,0,0,1,0,0,Marketing Executive
+Student582,74,62,96,3,10,5,0,0,1,0,0,Business Manager
+Student542,68,72,90,3,9,5,0,0,1,0,0,Business Manager
+Student52,95,78,69,8,6,2,1,0,0,0,0,Software Engineer
+Student627,70,56,94,0,10,7,0,0,1,0,0,Marketing Executive
+Student783,64,60,84,4,8,9,0,1,0,0,0,Graphic Designer
+Student671,60,61,90,2,9,5,0,0,1,0,0,Marketing Executive
+Student440,68,58,100,2,10,5,0,0,0,0,1,Lawyer
+Student638,61,54,92,0,10,5,0,0,1,0,0,Marketing Executive
+Student331,66,100,67,1,7,6,0,0,0,1,0,Doctor
